@@ -185,17 +185,11 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 📧 Contact
 
 My email: 2303473412@qq.com
 
-Project Link: [https://github.com/yourusername/cms](https://github.com/yourusername/cms)
 
 ---
 
